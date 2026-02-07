@@ -65,7 +65,49 @@ Welcome to **LSTM Sniper!** 🎯 A smart, interactive app to forecast stock mark
 
 Make sure you have **Python 3.9+** installed.
 
+## 📝 Examples
+Example 1: Nifty 50 Prediction
+
+Current Price: ₹22,150.00
+
+Target (20m): ₹22,185.50
+
+Signal: BUY 🟢
+
+Projected Profit: ₹887.50 (1 Lot)
+![App Interface](https://github.com/Karanjadhav4/StockPredictor/blob/main/Stock01.png)
+![Actual candels](https://github.com/Karanjadhav4/StockPredictor/blob/main/Stock02.png)
+![Predected Candel](https://github.com/Karanjadhav4/StockPredictor/blob/main/Stock03.png)
+## 💌 Feedback & Contribution
+We love feedback! 💖
+
+Report issues or suggest features in GitHub Issues.
+
+Contribute by adding new tickers, improving the LSTM model, or fixing bugs.
+
+Star the repo ⭐ if you like this app!
+
+## 📌 Buttons & Navigation
+Select Asset – Choose which stock or index to analyze from the sidebar.
+
+Progress Bar – Watch the neural network train in real-time.
+
+Interactive Charts – Hover over candles to see specific Open/High/Low/Close values.
+
+## 📚 References
+Streamlit Documentation 🌐
+
+TensorFlow / Keras LSTM 🧠
+
+Yahoo Finance API 💾
+
+
+
+
 **1. Clone this repository:**
 ```bash
-git clone [https://github.com/YOUR_USERNAME/LSTM-Sniper.git](https://github.com/YOUR_USERNAME/LSTM-Sniper.git)
-cd LSTM-Sniper
+git clone [https://github.com/Karanjadhav4/StockPredictor](https://github.com/Karanjadhav4/StockPredictor)
+cd StockPredictor
+
+
+
